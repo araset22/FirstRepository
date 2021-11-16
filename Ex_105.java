@@ -4,7 +4,8 @@ public class Ex_105 {
 
 	public static void main(String[] args) {
 		String[] days = { "MARTES", "MIERCOLES", "JUEVES", "VIERNES", "SABADO", "DOMINGO" };
-
+		
+		System.out.println("Hola, Sóc Albert Raset Hernández");
 		Scanner teclat = new Scanner(System.in);
 		double d = 0;
 		while ((d = teclat.nextDouble()) != -1) {
